@@ -13,8 +13,7 @@ endif
 :set bs=2
 
 set tabstop=4       " tab width, neater if set to 4 characters
-set ts=4            " Change tab spacing to a lower value
-(default=8)
+set ts=4            " Change tab spacing to a lower value (default=8)
 "set expandtab       " force all tab commands to write spaces
 
 set hls
